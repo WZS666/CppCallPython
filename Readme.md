@@ -24,4 +24,4 @@ This project it's helping you interactive with Python function when you are usin
     
 ### 3. Run C++ code and check the result.
    - #### Workflow
-   <br>![Workflow](./image/8.JPG)
+   <br>![Workflow](./image/workflow.JPG)
